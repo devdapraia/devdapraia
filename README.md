@@ -5,23 +5,25 @@ Estudante de ADS em transição de carreira, com foco em construir uma base sól
 ## 🚀 O que estou fazendo agora
 
 - 🏨 Sistema de governança hoteleira migrado de Portugol para Java — atualmente em refatoração completa com Programação Orientada a Objetos.
-- ☕ Concluí Java Básico e Java POO com o professor Gustavo Guanabara — iniciando estudos em MySQL e persistência de dados.
+- ☕ Concluí Java Básico e Java POO com o professor Gustavo Guanabara — iniciando estudos em MySQL e banco de dados relacionais.
 - 🎯 Construindo portfólio, documentação técnica e base sólida para ingressar no mercado tech de Recife-PE.
 
 ### 🛠️ Toolbox
 
 <div align="left">
+  
   <img src="https://img.shields.io/badge/Lógica-VisuAlg-blue?style=for-the-badge" alt="VisuAlg">
   
-  <img src="https://img.shields.io/badge/POO-Programação%20Orientada%20a%20Objetos-6A1B9A?style=for-the-badge" alt="POO">
-  
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  
+  <img src="https://img.shields.io/badge/Programação%20Orientada%20a%20Objetos-6A1B9A?style=for-the-badge" alt="POO">
   
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+
 </div>
 
 ### 📫 Vamos conectar?
