@@ -16,8 +16,6 @@ Estudante de ADS em transição de carreira, com foco em construir uma base sól
   
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   
-  <img src="https://img.shields.io/badge/Programação%20Orientada%20a%20Objetos-6A1B9A?style=for-the-badge" alt="POO">
-  
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
