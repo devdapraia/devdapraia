@@ -6,8 +6,8 @@ Estudante de ADS em transição de carreira, com foco em construir uma base sól
 - 🏨 Sistema de governança hoteleira com integração JDBC completa (v5.0) —
   arquitetura em camadas Main → Controller → DAO, histórico de operações,
   relatórios gerenciais e persistência real com MariaDB.
-- 🌐 Iniciando estudos em HTML/CSS e Figma — próximo passo na trilha
-  rumo ao desenvolvimento de interface mobile para o sistema de governança.
+- 🌐 Iniciando estudos em HTML/CSS e Figma — prototipação das telas 
+  do sistema de governança antes da implementação mobile com Flutter.
 - 📄 Artigo científico submetido ao ERBASE 2026 (IFAL Campus Maragogi) —
   aguardando resposta da banca em julho.
 - 🎯 Construindo portfólio e base sólida para ingressar no mercado tech
