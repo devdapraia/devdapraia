@@ -1,12 +1,12 @@
 # Olá, eu sou o João Adôrno! 👋
 
-Estudante de ADS em transição de carreira, com foco em construir uma base sólida antes de entrar no mercado. Acredito que a melhor forma de aprender programação é resolvendo problemas reais — por isso desenvolvo projetos inspirados nos desafios operacionais da hotelaria onde trabalho.
+Estudante de ADS em transição de carreira, com foco em construir uma base sólida antes de entrar no mercado. Acredito que a melhor forma de aprender programação é resolvendo problemas reais, por isso desenvolvo projetos inspirados nos desafios operacionais da hotelaria onde trabalho.
 
 ## 🚀 O que estou fazendo agora
 
 - 🏨 **Hotel Governance System (HGS)** — sistema de governança hoteleira em produção. Nasceu como protótipo em Java + JDBC + MariaDB (arquitetura Main → Controller → DAO) e evoluiu para aplicação web em PHP + MySQL, com deploy automatizado via GitHub Actions.
 - 💰 **Hotel Finance System (HFS)** — controle financeiro para o setor hoteleiro em PHP + MySQL: lançamentos, acompanhamento de pagamentos e indicadores gerenciais.
-- 🧪 Conduzindo **testes de usabilidade** do HGS com a equipe real de uma pousada — entrevistas por perfil e pesquisa de satisfação.
+- 🧪 Conduzindo **testes de usabilidade** do HGS com a equipe real de uma pousada, entrevistas por perfil e pesquisa de satisfação.
 - 📱 Estudando **Flutter** para a versão mobile do HGS, com protótipo e design system construídos no Figma.
 - 🎯 Foco em estágio no **Porto Digital (Recife)** a partir de janeiro de 2027.
 
